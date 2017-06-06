@@ -4,10 +4,10 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Functions
-	* Parameters
-	* Arguments
-	* `if` statements
+	* Functions: Functions are code that "does some task" when called upon. If nothing ever asks to use them, then the function never does its process. What it "does" can basically be whatever is needed for your program.
+	* Parameters: Parameters of a function allow your function to work with specifically chosen input. Say you want your function to run a math problem with three variables. You create three parameters to pass into your function to hold the space for those three variables.
+	* Arguments: Arguments are the actual value which you pass through an equation. So, if you want to run a math problem with numbers that the user enters in (ex: 4, 6, 12), then you would make those numbers variables to then be passed (via parameters) into your equation. 
+	* `if` statements: If statements tell the computer to run some code only If a specific criteria is true. If this is not the case, that If code block will not run. If the programmer put in an "else" statement, then that may run instead of the If. 
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
